@@ -12,7 +12,7 @@ Some of the tech stack I work with and am currently having fun with:
 - Infrastructure as Code
 - Linux System Administration
 - Kubernetes
-- Arggo CD & Flux CD
+- Argo CD & Flux CD
 - DevOps, GtitOps & SRE 
 - Home automation with HomeAssistant
 
